@@ -38,7 +38,7 @@ $ cargo install phantom-secret
 
 ```bash
 $ phantom YOUR_PHANTOM_PRIVATE_KEY
-✅ Generated File!: ./phantom.json
+✅ Generated File: ./phantom.json
 ```
 
 Now you have your key file 
@@ -49,7 +49,7 @@ Example
 
 ```bash
 $ phantom 5Y6ppfatwVHUekNX8FDNUrcDBThS7Ai5B6B8vsEk94jitLKPPUkiMXsbJrQw4yf4DpZJymnqLaWKuCpQ4j3Wp88e
-✅ Generated File!: ./phantom.json
+✅ Generated File: ./phantom.json
 ```
 
 
