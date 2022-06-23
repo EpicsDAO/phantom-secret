@@ -1,0 +1,19 @@
+[package]
+name = "phantom-secret"
+version = "0.1.0"
+authors = ["Fumitake Kawasaki <f.kawasaki@elsoul.nl>"]
+edition = "2021"
+license = "Apache-2.0"
+keywords = ["Phantom", "Secret", "Pubkey", "Privatekey", "Json"]
+homepage = "https://github.com/EpicsDAO/phantom-secret"
+repository = "https://github.com/EpicsDAO/phantom-secret"
+
+[[bin]]
+name = "phantom"
+path = "src/main.rs"
+
+[dependencies]
+bs58 = "0.4.0"
+console = "0.15.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
