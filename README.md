@@ -23,7 +23,7 @@ Easy to Convert Your Phantom Wallet Private Key to Solana Json Key File.
 
 <p>
   <a aria-label="Phantom Wallet Convert Private Key to Solana Json Key FIle">
-    <img src="https://storage.googleapis.com/zapp-bucket/img/phantom-secret.gif">
+    <img src="https://storage.googleapis.com/zapp-bucket/img/phantom-secret.png">
   </a>
 </p>
 
