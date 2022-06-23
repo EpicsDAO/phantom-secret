@@ -1,5 +1,6 @@
 [package]
 name = "phantom-secret"
+description = "Easy to Convert Your Phantom Wallet Private Key to Solana Json Key File."
 version = "0.1.0"
 authors = ["Fumitake Kawasaki <f.kawasaki@elsoul.nl>"]
 edition = "2021"
